@@ -63,7 +63,7 @@ async def start(client, message):
                     InlineKeyboardButton('🏞 𝐉𝐨𝐢𝐧 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎇', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAICA2Tz20g5tQOCaBAI2aSmvk-bB5BuAAK-BQACEKoRV-0vii1W3U89MAQ") 
+        m=await message.reply_sticker("CAACAgUAAxkBAAEC0Q1l5M_f7d9hTY6xIG9dGHo_UGlodgACaQcAAjisiVeEAfydyvbuUB4E") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -170,7 +170,7 @@ async def start(client, message):
                                 InlineKeyboardButton('❄ 𝐑𝐞𝐪 𝐆𝐫𝐨𝐮𝐩 🥀', url=f'https://t.me/{SUPPORT_CHAT}'),
                                 InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK)
                             ],[
-                                InlineKeyboardButton('🎋𝐒𝐌𝐃 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋', url="https://t.me/+VEMz7vS7VtFmMDI1")
+                                InlineKeyboardButton('🎋𝐐𝐭𝐯𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋', url="https://t.me/+z48f1nqE1FMyYmNl")
                             ],
                             [
                                 InlineKeyboardButton('🎬 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 / 𝐖𝐚𝐭𝐜𝐡 𝐎𝐧𝐥𝐢𝐧𝐞🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
@@ -192,7 +192,7 @@ async def start(client, message):
                           InlineKeyboardButton('❄ 𝐑𝐞𝐪 𝐆𝐫𝐨𝐮𝐩 🥀', url=f'https://t.me/{SUPPORT_CHAT}'),
                           InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("🎋𝐒𝐌𝐃 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+VEMz7vS7VtFmMDI1")
+                          InlineKeyboardButton("🎋𝐐𝐭𝐯𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+z48f1nqE1FMyYmNl")
                          ],[ 
                             InlineKeyboardButton('🎬 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 & 𝐖𝐚𝐭𝐜𝐡 𝐎𝐧𝐥𝐢𝐧𝐞🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
                             ]
@@ -351,7 +351,7 @@ async def start(client, message):
                       InlineKeyboardButton('❄ 𝐑𝐞𝐪 𝐆𝐫𝐨𝐮𝐩 🥀', url=f'https://t.me/{SUPPORT_CHAT}'),
                       InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("🎋𝐒𝐌𝐃 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+VEMz7vS7VtFmMDI1")
+                      InlineKeyboardButton("🎋𝐐𝐭𝐯𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+z48f1nqE1FMyYmNl")
                      ],
                      [
                         InlineKeyboardButton('🎬 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 & 𝐖𝐚𝐭𝐜𝐡 𝐎𝐧𝐥𝐢𝐧𝐞🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
@@ -417,7 +417,7 @@ async def start(client, message):
                       InlineKeyboardButton('❄ 𝐑𝐞𝐪 𝐆𝐫𝐨𝐮𝐩 🥀', url=f'https://t.me/{SUPPORT_CHAT}'),
                       InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("🎋𝐒𝐌𝐃 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+VEMz7vS7VtFmMDI1")
+                      InlineKeyboardButton("🎋𝐐𝐭𝐯𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+z48f1nqE1FMyYmNl")
                      ],
                      [
                         InlineKeyboardButton('🎬 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 & 𝐖𝐚𝐭𝐜𝐡 𝐎𝐧𝐥𝐢𝐧𝐞🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
@@ -480,7 +480,7 @@ async def start(client, message):
               InlineKeyboardButton('❄ 𝐑𝐞𝐪 𝐆𝐫𝐨𝐮𝐩 🥀', url=f'https://t.me/{SUPPORT_CHAT}'),
               InlineKeyboardButton('☘️ 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛 🦞', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("🎋𝐒𝐌𝐃 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+VEMz7vS7VtFmMDI1")
+              InlineKeyboardButton("🎋𝐐𝐭𝐯𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+z48f1nqE1FMyYmNl")
              ],
              [
               InlineKeyboardButton('🎬 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐋𝐢𝐧𝐤 / 𝐖𝐚𝐭𝐜𝐡 𝐎𝐧𝐥𝐢𝐧𝐞🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @LazyDeveloperr
