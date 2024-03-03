@@ -1172,7 +1172,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("🎋𝐐𝐭𝐯𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+z48f1nqE1FMyYmNl")
+                 InlineKeyboardButton("🎋𝐐𝐭𝐯𝐬 𝐑𝐞𝐪𝐮𝐞𝐬𝐭🦋", url="https://t.me/+UyTHc_6VgNIyMDNl")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
