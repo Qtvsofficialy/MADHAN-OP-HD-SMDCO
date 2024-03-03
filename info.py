@@ -114,9 +114,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://smdfiletolink-m19440446.koyeb.app/".format(FQDN)
+    URL = "https://madhan-op-sunfixji.koyeb.app/".format(FQDN)
 else:
-    URL = "https://smdfiletolink-m19440446.koyeb.app/".format(FQDN)
+    URL = "https://madhan-op-sunfixji.koyeb.app/".format(FQDN)
 
 
 
