@@ -11,7 +11,7 @@ class script(object):
 𝐇𝐞𝐫𝐞 𝐈𝐬 𝐓𝐡𝐞 𝐇𝐞𝐥𝐩 𝐅𝐨𝐫 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐁𝐮𝐝𝐝𝐲</b>"""
 
     ABOUT_TXT = """<b>✯ 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Samandes_bot>🍁🇸 🇲 🇩 Ⱥᵾŧø ᶠⁱˡᵗᵉʳ🦋</a>
-✯ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href='https://t.me/SMD_Owner'>𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫</a>
+✯ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href='https://t.me/Owner_of_qtmve'>𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫</a>
 ✯ 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦
 ✯ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐏𝐲𝐭𝐡𝐨𝐧 𝟑
 ✯ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 : 𝐑𝐞𝐝𝐚𝐬
@@ -20,7 +20,7 @@ class script(object):
 
     SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 @SMD_Owner
 
-- 𝟏𝟎𝟎﹪ 𝐂𝐨𝐝𝐞𝐝 𝐁𝐲 <a href=https://t.me/SMD_Owner>🌿𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫🦋</a>"""
+- 𝟏𝟎𝟎﹪ 𝐂𝐨𝐝𝐞𝐝 𝐁𝐲 <a href=https://t.me/Owner_of_qtmve>🌿𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫🦋</a>"""
     
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
