@@ -10,7 +10,7 @@ class script(object):
     HELP_TXT = """<b>𝐇𝐞𝐲 {}
 𝐇𝐞𝐫𝐞 𝐈𝐬 𝐓𝐡𝐞 𝐇𝐞𝐥𝐩 𝐅𝐨𝐫 𝐌𝐲 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐁𝐮𝐝𝐝𝐲</b>"""
 
-    ABOUT_TXT = """<b>✯ 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Samandes_bot>🍁🇸 🇲 🇩 Ⱥᵾŧø ᶠⁱˡᵗᵉʳ🦋</a>
+    ABOUT_TXT = """<b>✯ 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=https://t.me/Qtmvefilter1_Bot>🍁ＭＡＤＡＮ 🅞🅟🦋</a>
 ✯ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 : <a href='https://t.me/Owner_of_qtmve'>𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫</a>
 ✯ 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦
 ✯ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐏𝐲𝐭𝐡𝐨𝐧 𝟑
